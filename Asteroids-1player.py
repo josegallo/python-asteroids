@@ -1,4 +1,6 @@
 #ASTERIODS: 1 PLAYER
+# To be played directly in http://www.codeskulptor.org/
+
 
 import simplegui
 import math
